@@ -33,6 +33,7 @@ Tenho 35 anos, sou de São Paulo, formada em analises e desenvolvimento de siste
 <a href="https://www.linkedin.com/in/camila-da-silva-309821192" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 
+![snake gif](https://github.com/CahMila/CahMila/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
