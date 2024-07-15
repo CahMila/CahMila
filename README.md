@@ -11,13 +11,20 @@ Tenho 35 anos, sou de São Paulo, formada em analises e desenvolvimento de siste
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="WhatsApp_Image_2024-07-13_at_22.52.57-removebg-preview.png">
+<img width="300px" align="right" src="https://tenor.com/pt-BR/view/pokemon-pikachu-youpi-gif-15253440410685032834">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
           
+</br>
+</br>
+
+<!-- Snake -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Contribuições:
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CahMila/CahMila/output/github-contribution-grid-snake-dark.svg" />
+
 </br>
 </br>
 
@@ -33,7 +40,7 @@ Tenho 35 anos, sou de São Paulo, formada em analises e desenvolvimento de siste
 <a href="https://www.linkedin.com/in/camila-da-silva-309821192" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 
-![snake gif](https://github.com/CahMila/CahMila/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <!--
