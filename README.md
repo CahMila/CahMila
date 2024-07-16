@@ -1,16 +1,10 @@
-<h1 align="left">Camila Silva</h1>
-</br>
+<img align="center" width="900" height="250" src="Banner.gif">
 
-###
 
-###
-## Hello, Devs!!
 
 Tenho 35 anos, sou de São Paulo, formada em analises e desenvolvimento de sistemas (não praticante, rsrs) mas apaixonada por programação! ❤
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+
 
 <img width="200px" align="right" src="pokemon-pikachu.gif">
 </br>
