@@ -13,9 +13,11 @@ Tenho 35 anos, sou de São Paulo, formada em analises e desenvolvimento de siste
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> 🖥️ Technologies and Tools:
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="50px" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" title = "JAVASCRIPT"/></code>
+<code><img width="50px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" title = "GIT"/></code>
+<code><img width="50px" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" title = "GITHUB"/></code>
+<code><img width="50px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title = "PYTHON"/></code>
+<code><img width="50px" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title = "VISUAL STUDIO"/></code>
           
 </br>
 </br>
